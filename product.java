@@ -3,6 +3,6 @@ class product
   public static void main()
   {
 	system.out.println("hello world")
-		system.out.println("helloo world")
+		system.out.println("echo")
   }
 }  
